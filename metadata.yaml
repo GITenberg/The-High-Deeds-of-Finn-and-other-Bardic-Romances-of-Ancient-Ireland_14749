@@ -1,0 +1,51 @@
+_repo: The-High-Deeds-of-Finn-and-other-Bardic-Romances-of-Ancient-Ireland_14749
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Brooke, Stopford Augustus
+    birthdate: 1832
+    deathdate: 1916
+    gutenberg_agent_id: '5468'
+    url: http://www.gutenberg.org/2009/agents/5468
+    wikipedia: http://en.wikipedia.org/wiki/Stopford_Augustus_Brooke
+  illustrator:
+    agent_name: Reid, Stephen
+    birthdate: 1873
+    deathdate: 1948
+    gutenberg_agent_id: '5698'
+    url: http://www.gutenberg.org/2009/agents/5698
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rolleston, T. W. (Thomas William)
+    aliases:
+    - Rolleston, T.W.
+    - Rolleston, Thomas William
+    - Rolleston, Thomas William Hazen
+    birthdate: 1857
+    deathdate: 1920
+    gutenberg_agent_id: '5663'
+    url: http://www.gutenberg.org/2009/agents/5663
+    wikipedia: http://en.wikipedia.org/wiki/T._W._Rolleston
+description: ''
+gutenberg_issued: '2005-01-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14749'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Heroes -- Ireland -- Legends'
+- !lcsh 'Cormac Mac Airt, King of Ireland, fl. 227-260 -- Legends'
+- !lcsh 'Epic literature, Irish -- Translations into English'
+- !lcsh 'Mythology, Celtic -- Ireland'
+- !lcc 'PB'
+- !lcsh 'Finn MacCool -- Legends'
+- !lcsh 'Bards and bardism'
+- !lcsh 'Tales -- Ireland'
+title: The High Deeds of Finn and other Bardic Romances of Ancient Ireland
+url: http://www.gutenberg.org/ebooks/14749
