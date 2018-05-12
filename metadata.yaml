@@ -30,6 +30,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5663
     wikipedia: http://en.wikipedia.org/wiki/T._W._Rolleston
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14749#The-High-Deeds-of-Finn-and-other-Bardic-Romances-of-Ancient-Ireland
 gutenberg_issued: '2005-01-21'
 gutenberg_type: Text
 identifiers:
